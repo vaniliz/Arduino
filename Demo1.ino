@@ -19,18 +19,32 @@ void loop() {
  delay (250);
  Serial.println("ON");
  digitalWrite(led2,HIGH);
+<<<<<<< HEAD
+ delay (300);
+ Serial.println("ON");
+ digitalWrite(led3,HIGH);
+ delay (350);
+=======
  delay (250);
  Serial.println("ON");
  digitalWrite(led3,HIGH);
  delay (250);
+>>>>>>> 37389bbb7613e0f89c256e5bcc2c50966b9d22cc
  
  Serial.println("OFF");
  digitalWrite (led, LOW);
  delay(250);
  Serial.println("OFF");
  digitalWrite (led2, LOW);
+<<<<<<< HEAD
+ delay(300);
+ Serial.println("OFF");
+ digitalWrite (led3, LOW);
+ delay(350);
+=======
  delay(250);
  Serial.println("OFF");
  digitalWrite (led3, LOW);
  delay(250);
+>>>>>>> 37389bbb7613e0f89c256e5bcc2c50966b9d22cc
 }
