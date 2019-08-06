@@ -6,7 +6,7 @@
 
 ### Introduccion
 #### ¿Que es?
-![Arduino uno](https://github.com/vaniliz/Arduino/blob/master/docs/img/C-400-DEV-A000046-a.jpg)
+![Arduino uno](https://vaniliz.github.io/Arduino/docs/img/C-400-DEV-A000046-a.jpg)
 
 ### Sensores
 Arduino cuenta con una amplia variedad de sensores, tales como:
