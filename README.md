@@ -1,6 +1,6 @@
 # Arduino 1 
 ## Repositorio Prueba
-![Arduino logo](https://github.com/vaniliz/Arduino/blob/master/docs/img/Arduino_Logo.svg.png)
+![Arduino logo](https://vaniliz.github.io/Arduino/docs/img/Arduino_Logo.svg.png)
 
 ### Plataforma
 
